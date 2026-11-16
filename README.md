@@ -1,6 +1,6 @@
 A classic Blackjack card game built with C# and Windows Forms. Play against the dealer, choose Hit or Stand, and try to get as close to 21 as possible without going over.
 
-![Blackjack screenshot](<img width="1123" height="687" alt="a" src="https://github.com/user-attachments/assets/7eb3c5c4-b624-4810-b954-66fa6bbd6fc3" />)
+<img width="1123" height="687" alt="Blackjack screenshot" src="https://github.com/user-attachments/assets/7eb3c5c4-b624-4810-b954-66fa6bbd6fc3" />
 
 ## 🎮 Features
 - Play against a computer dealer
